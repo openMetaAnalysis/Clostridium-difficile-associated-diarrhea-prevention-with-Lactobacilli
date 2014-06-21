@@ -19,7 +19,7 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Allen SJ, Wareham K, Wang D, Bradley C, Hutchings H, Harris W, Dhar A, Brown H, Foden A, Gravenor MB, Mack D. Lactobacilli and bifidobacteria in the prevention of antibiotic-associated diarrhoea and Clostridium difficile diarrhoea
-in older inpatients (PLACIDE): a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2013 Oct 12;382(9900):1249-57. PMID: (23932219)[http://pubmed.gov/23932219]
+in older inpatients (PLACIDE): a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2013 Oct 12;382(9900):1249-57. PMID: [23932219](http://pubmed.gov/23932219)
 
 #### Trials included in the review above
 
