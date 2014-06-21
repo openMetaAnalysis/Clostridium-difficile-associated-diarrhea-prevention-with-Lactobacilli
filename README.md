@@ -22,5 +22,8 @@ References:
 in older inpatients (PLACIDE): a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2013 Oct 12;382(9900):1249-57. PMID: [23932219](http://pubmed.gov/23932219)
 
 #### Trials included in the review above
-
-
+1. Arvola T, Laiho K, Torkkeli S, Mykkänen H, Salminen S, Maunula L, Isolauri E.  Prophylactic Lactobacillus GG reduces antibiotic-associated diarrhea in children  with respiratory infections: a randomized study. Pediatrics. 1999 Nov;104(5):e64. PMID: [10545590](http://pubmed.gov/10545590).
+2. Ruszczyński M, Radzikowski A, Szajewska H. Clinical trial: effectiveness of Lactobacillus rhamnosus (strains E/N, Oxy and Pen) in the prevention of antibiotic-associated diarrhoea in children. Aliment Pharmacol Ther. 2008 Jul;28(1):154-61. PMID: [18410562](http://pubmed.gov/18410562).
+3. Thomas MR, Litin SC, Osmon DR, Corr AP, Weaver AL, Lohse CM. Lack of effect of Lactobacillus GG on antibiotic-associated diarrhea: a randomized, placebo-controlled trial. Mayo Clin Proc. 2001 Sep;76(9):883-9. PMID:
+[11560298](http://pubmed.gov/11560298)
+4. Miller (unpublished abstract data only)
