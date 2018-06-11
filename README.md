@@ -1,4 +1,4 @@
-Lactobacilli to prevent Clostridium difficile associated diarrhea
+Clostridium difficile associated diarrhea prevention with Lactobacilli
 =================================
 A data-only living systematic review
 
